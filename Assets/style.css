@@ -1,0 +1,31 @@
+/*Styles for GifTastic*/
+
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+.container-fluid {
+  max-width: 80%;
+}
+
+.jumbotron {
+  background-image: url("../../Train_times/Assets/Images/Skyline.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 -80px;
+  color: white;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.panel-heading,
+.form-group{
+  text-align: left;
+
+}
+
+#addEmployee {
+  float: left;
+}
